@@ -17,7 +17,7 @@ settings =
 	plugins = {
 		["plugin.textbelt"] =
         {
-            publisherId = "com.scottrules44",
+            publisherId = "tech.scotth",
         },
 	},
 	iphone =
