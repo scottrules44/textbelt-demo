@@ -2,6 +2,7 @@
 local turnOffTouch = false
 --require plugin
 local textbelt = require("plugin.textbelt")
+textbelt.init("key")
 local widget = require("widget")
 --layout
 local scale0= ((display.actualContentWidth- display.contentWidth)*.5)
